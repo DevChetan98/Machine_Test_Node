@@ -21,7 +21,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/users/registration",
+					"raw": "http://localhost:8080/api/user/registration",
 					"protocol": "http",
 					"host": [
 						"localhost"
